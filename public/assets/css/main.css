@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(228, 227, 227);
+}
+
+.navbar2{
+margin-top: -10px;
+display: flex;
+height: 45px;
+background-color: rgb(255, 255, 255);
+}
+
+.list-group{
+    padding-top:2px;
+    padding-right: 40px;
+}
+
+
+.hover1{
+    padding-top: 10px;
+    font-size: 18px;
+    font-family: sans-serif;
+    color:#000;
+}
+
+.hover1:hover{
+    color:  rgb(46, 187, 235);
+    padding-bottom:7px;
+    border-bottom: 3px solid rgb(46, 187, 235);
+}
+
+.container h6{
+    color:rgb(66, 65, 65);
+    margin-top: 30px;
+    margin-bottom: -25px;
+}
+
+.container h5{
+    color:  rgb(46, 187, 235);
+    padding-left:5px;
+    padding-top: 30px;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+a:active{
+   color: yellow;
+}

@@ -1,0 +1,16 @@
+.nav-item:hover{
+    border-bottom: 3px solid rgb(46, 187, 235);
+}
+
+.text:hover{
+    color:  rgb(46, 187, 235);
+    
+}
+
+.background{
+    background-color: rgb(240, 240, 240);
+}
+
+.navbar-h-100{
+    background-color: #fff;
+}
